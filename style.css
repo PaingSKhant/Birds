@@ -1,0 +1,18 @@
+h3,
+h4,
+span,
+p {
+  font-family: monospace;
+}
+
+h4:hover {
+  color: cadetblue;
+}
+
+.text-violet {
+  color: darkorchid;
+}
+
+.box {
+  background-color: MintCream;
+}
