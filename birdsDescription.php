@@ -34,15 +34,15 @@ $id = $_GET['id'];
         </div>
         <div class="col-4 d-flex justify-content-evenly  text-dark">
             <a href="index.php" class="text-decoration-none text-dark">
-                <h4 class="index.php">Home</h4>
+                <h4 class="">Home</h4>
             </a>
-            <a href="" class="text-decoration-none text-dark">
+            <a href="birds.php" class="text-decoration-none text-dark">
                 <h4 class="">Birds</h4>
             </a>
         </div>
         <div class="col-4 text-end">
             <button class="btn btn-secondary rounded ">
-                <span>Let's Fly</span>
+            <a href="birds.php" class="text-decoration-none text-white"><span>Let's Fly</span></a>
             </button>
         </div>
     </div>
